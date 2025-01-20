@@ -1,13 +1,13 @@
 // CUSTOMIZE THIS FILE TO ADD YOUR OWN DATA
 
 const data = {
-    name: "John Doe",
-    bio: "Undergraduate Architectural Student at University of Calgary passionate about building tools to make homes more affordable.",
+    name: "Maddie Teeple",
+    bio: "Second year BDCI student at the University of Calgary",
     contact: {
-        email: "john.doe@gmail.com",
-        phone: "+12345678910",
-        linkedin: "https://www.linkedin.com/",
-        github: "https://www.github.com/",
+        email: "maddie.teeple@ucalgary.ca",
+        phone: "+5875761350",
+        linkedin: "www.linkedin.com/in/m-teeple-067ab1347",
+        github: "https://github.com/Maddie-te",
     }
 }
 
