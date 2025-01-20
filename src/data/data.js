@@ -5,7 +5,7 @@ const data = {
     bio: "Second year BDCI student at the University of Calgary",
     contact: {
         email: "maddie.teeple@ucalgary.ca",
-        phone: "+5875761350",
+        phone: "+(587)5761350",
         linkedin: "www.linkedin.com/in/m-teeple-067ab1347",
         github: "https://github.com/Maddie-te",
     }
